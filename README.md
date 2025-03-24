@@ -34,6 +34,11 @@ Fui **graduanda em Análise e Desenvolvimento de Sistemas** e atuo como **desenv
 </div>
 
 ---
+## 🌐 Meu Portfólio  
+[![Portfólio](https://i.postimg.cc/prbPbfYd/portfolio.gif)](https://sandyoliveira.github.io/Portfolio/)
+
+💡 Clique na imagem para acessar!
+
 
 ### 🌎 Vamos nos conectar?  
 <div> 
